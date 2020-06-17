@@ -1,0 +1,20 @@
+body {
+  background-color: #eee;
+  padding: 0px;
+  margin: 0px;
+}
+.PlayersBlock {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px;
+  justify-content: space-between;
+}
+
+.PlayersBlock .card {
+  width: 24%;
+}
+
+img {
+  height: 200px;
+  width: 100%;
+}
